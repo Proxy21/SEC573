@@ -1,2 +1,3 @@
 local_pyWars.py
-
+local_pyWars.pyc
+__pycache__/*
