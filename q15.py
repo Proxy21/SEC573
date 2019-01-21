@@ -7,6 +7,7 @@ y = game.data(15)
 y = y.replace(',', '')
 x = list(y)
 print (x)
+print (x[9])
 
 game.answer(15,x[9])
 print (game.score())
